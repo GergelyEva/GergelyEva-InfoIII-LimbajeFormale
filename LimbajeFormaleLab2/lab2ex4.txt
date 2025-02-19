@@ -1,0 +1,4 @@
+Client: Ana Maria
+Produs: Carte, Pret: 52.00, TVA: 19%, Cantitate: 1
+Produs: Mouse, Pret: 50.00, TVA: 19%, Cantitate: 1
+Total: 102.00
