@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\bin\Debug\net8.0\LimbajeFormaleLab5.exe
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\bin\Debug\net8.0\LimbajeFormaleLab5.deps.json
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\bin\Debug\net8.0\LimbajeFormaleLab5.runtimeconfig.json
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\bin\Debug\net8.0\LimbajeFormaleLab5.dll
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\bin\Debug\net8.0\LimbajeFormaleLab5.pdb
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\obj\Debug\net8.0\LimbajeFormaleLab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\obj\Debug\net8.0\LimbajeFormaleLab5.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\obj\Debug\net8.0\LimbajeFormaleLab5.AssemblyInfo.cs
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\obj\Debug\net8.0\LimbajeFormaleLab5.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\obj\Debug\net8.0\LimbajeFormaleLab5.dll
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\obj\Debug\net8.0\refint\LimbajeFormaleLab5.dll
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\obj\Debug\net8.0\LimbajeFormaleLab5.pdb
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\obj\Debug\net8.0\LimbajeFormaleLab5.genruntimeconfig.cache
+C:\Users\HP\source\repos\LimbajeFormaleLab5\LimbajeFormaleLab5\obj\Debug\net8.0\ref\LimbajeFormaleLab5.dll
