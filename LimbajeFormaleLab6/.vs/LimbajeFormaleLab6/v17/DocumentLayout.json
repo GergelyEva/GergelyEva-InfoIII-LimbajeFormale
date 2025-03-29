@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\LimbajeFormaleLab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA443FEB-D951-484C-9A46-77BAC9608C06}|LimbajeFormaleLab6\\LimbajeFormaleLab6.csproj|c:\\users\\hp\\source\\repos\\limbajeformalelab6\\limbajeformalelab6\\functiiex1b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA443FEB-D951-484C-9A46-77BAC9608C06}|LimbajeFormaleLab6\\LimbajeFormaleLab6.csproj|solutionrelative:limbajeformalelab6\\functiiex1b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA443FEB-D951-484C-9A46-77BAC9608C06}|LimbajeFormaleLab6\\LimbajeFormaleLab6.csproj|c:\\users\\hp\\source\\repos\\limbajeformalelab6\\limbajeformalelab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA443FEB-D951-484C-9A46-77BAC9608C06}|LimbajeFormaleLab6\\LimbajeFormaleLab6.csproj|solutionrelative:limbajeformalelab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA443FEB-D951-484C-9A46-77BAC9608C06}|LimbajeFormaleLab6\\LimbajeFormaleLab6.csproj|c:\\users\\hp\\source\\repos\\limbajeformalelab6\\limbajeformalelab6\\functiiex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA443FEB-D951-484C-9A46-77BAC9608C06}|LimbajeFormaleLab6\\LimbajeFormaleLab6.csproj|solutionrelative:limbajeformalelab6\\functiiex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA443FEB-D951-484C-9A46-77BAC9608C06}|LimbajeFormaleLab6\\LimbajeFormaleLab6.csproj|c:\\users\\hp\\source\\repos\\limbajeformalelab6\\limbajeformalelab6\\functiiex1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA443FEB-D951-484C-9A46-77BAC9608C06}|LimbajeFormaleLab6\\LimbajeFormaleLab6.csproj|solutionrelative:limbajeformalelab6\\functiiex1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA443FEB-D951-484C-9A46-77BAC9608C06}|LimbajeFormaleLab6\\LimbajeFormaleLab6.csproj|c:\\users\\hp\\source\\repos\\limbajeformalelab6\\limbajeformalelab6\\functiiex1c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA443FEB-D951-484C-9A46-77BAC9608C06}|LimbajeFormaleLab6\\LimbajeFormaleLab6.csproj|solutionrelative:limbajeformalelab6\\functiiex1c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FunctiiEx1C.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LimbajeFormaleLab6\\LimbajeFormaleLab6\\FunctiiEx1C.cs",
+              "RelativeDocumentMoniker": "LimbajeFormaleLab6\\FunctiiEx1C.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LimbajeFormaleLab6\\LimbajeFormaleLab6\\FunctiiEx1C.cs",
+              "RelativeToolTip": "LimbajeFormaleLab6\\FunctiiEx1C.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:08:56.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FunctiiEx1B.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LimbajeFormaleLab6\\LimbajeFormaleLab6\\FunctiiEx1B.cs",
+              "RelativeDocumentMoniker": "LimbajeFormaleLab6\\FunctiiEx1B.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LimbajeFormaleLab6\\LimbajeFormaleLab6\\FunctiiEx1B.cs",
+              "RelativeToolTip": "LimbajeFormaleLab6\\FunctiiEx1B.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:08:43.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FunctiiEx1A.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LimbajeFormaleLab6\\LimbajeFormaleLab6\\FunctiiEx1A.cs",
+              "RelativeDocumentMoniker": "LimbajeFormaleLab6\\FunctiiEx1A.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LimbajeFormaleLab6\\LimbajeFormaleLab6\\FunctiiEx1A.cs",
+              "RelativeToolTip": "LimbajeFormaleLab6\\FunctiiEx1A.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:08:37.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FunctiiEx2.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LimbajeFormaleLab6\\LimbajeFormaleLab6\\FunctiiEx2.cs",
+              "RelativeDocumentMoniker": "LimbajeFormaleLab6\\FunctiiEx2.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LimbajeFormaleLab6\\LimbajeFormaleLab6\\FunctiiEx2.cs",
+              "RelativeToolTip": "LimbajeFormaleLab6\\FunctiiEx2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T17:28:39.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LimbajeFormaleLab6\\LimbajeFormaleLab6\\Program.cs",
+              "RelativeDocumentMoniker": "LimbajeFormaleLab6\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LimbajeFormaleLab6\\LimbajeFormaleLab6\\Program.cs",
+              "RelativeToolTip": "LimbajeFormaleLab6\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAywDEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:00:11.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
